@@ -7,6 +7,8 @@ body {
 }
 .center-content {
     margin: 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 h1 {
     background-color: aqua;
