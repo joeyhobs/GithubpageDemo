@@ -5,15 +5,13 @@
 body {
     margin: 0 auto;
 }
-.center-content {
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-}
+
 h1 {
+    margin: 0 auto;
     background-color: aqua;
     color: blue;
 }
 p {
+    margin: 0 auto;
     max-width: 65%;
 }
